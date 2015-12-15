@@ -154,7 +154,6 @@ class Conv3DLayer(Layer):
 
     def get_W_shape(self):
         """Get the shape of the weight matrix `W`.
-
         Returns
         -------
         tuple of int
